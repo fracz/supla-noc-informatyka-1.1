@@ -1,15 +1,57 @@
 [
-    {
-        "filename": "000_title.html",
-        "attr": {
-            "data-transition": "fade-out"
-        }
-    },
-    {
-        "filename": "102_questions.html",
-        "attr": {
-            "data-background": "resources/images/102_questions.gif"
-        }
-    },
-    "103_thank_you.html"
+  {
+    "filename": "000_title.html",
+    "attr": {
+      "data-transition": "fade-out",
+      "data-background": "#00d151"
+    }
+  },
+  "001_lamp.html",
+  {
+    "filename": "002_historia.html",
+    "attr": {
+      "data-transition": "fade-out"
+    }
+  },
+  {
+    "filename": "003_historia.html",
+    "attr": {
+      "data-transition": "fade-out"
+    }
+  },
+  {
+    "filename": "004_historia.html",
+    "attr": {
+      "data-transition": "fade-out"
+    }
+  },
+  {
+    "filename": "005_historia.html",
+    "attr": {
+      "data-transition": "fade-out"
+    }
+  },
+  {
+    "filename": "006_historia.html",
+    "attr": {
+      "data-transition": "fade-out"
+    }
+  },{
+    "filename": "007_historia.html",
+    "attr": {
+      "data-transition": "fade-out"
+    }
+  },{
+    "filename": "008_historia.html",
+    "attr": {
+      "data-transition": "fade-out"
+    }
+  },
+  {
+    "filename": "102_questions.html",
+    "attr": {
+      "data-background": "resources/images/102_questions.gif"
+    }
+  },
+  "103_thank_you.html"
 ]

@@ -1,34 +1,38 @@
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 .copyright {
-    opacity: .3;
-    font-size: .4em !important;
-    text-align: center;
+  opacity: .3;
+  font-size: .4em !important;
+  text-align: center;
 }
 
 .fa {
-    font-family: 'FontAwesome' !important;
-    font-style: normal !important;
+  font-family: 'FontAwesome' !important;
+  font-style: normal !important;
 }
 
 .fa-3x {
-    font-size: 3em !important;
+  font-size: 3em !important;
 }
 
 img.plain {
-    background: transparent !important;
+  background: transparent !important;
 }
 
 code .line {
-    display: block;
+  display: block;
 }
 
 code .line.focus {
-    background: #02671c;
+  background: #02671c;
 }
 
 a {
-    cursor: pointer;
+  cursor: pointer;
+}
+
+.supla-color {
+  color: #00d151;
 }
