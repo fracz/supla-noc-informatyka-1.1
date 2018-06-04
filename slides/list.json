@@ -36,15 +36,23 @@
     "attr": {
       "data-transition": "fade-out"
     }
-  },{
+  },
+  {
     "filename": "007_historia.html",
     "attr": {
       "data-transition": "fade-out"
     }
-  },{
-    "filename": "008_historia.html",
+  },
+  {
+    "filename": "008_how.html",
     "attr": {
-      "data-transition": "fade-out"
+      "data-background": "#fafbfc"
+    }
+  },
+  {
+    "filename": "009_how.html",
+    "attr": {
+      "data-background": "#fafbfc"
     }
   },
   {
