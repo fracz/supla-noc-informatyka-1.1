@@ -107,9 +107,90 @@
     }
   },
   {
+    "filename": "024-flashing.html",
+    "attr": {
+      "data-background": "resources/images/024-flashing.jpg"
+    }
+  },
+  {
+    "filename": "025-farma.html",
+    "attr": {
+      "data-background": "resources/images/025-farma.jpg"
+    }
+  },
+  {
+    "filename": "026-incan.html",
+    "attr": {
+      "data-background": "resources/images/026-incan.jpg"
+    }
+  },
+  {
+    "filename": "027-temp.html",
+    "attr": {
+      "data-background": "resources/images/027-temp.JPG"
+    }
+  },
+  {
+    "filename": "028-button.html",
+    "attr": {
+      "data-background-video": "resources/images/028-button.mp4",
+      "data-background-video-loop": "loop"
+    }
+  },
+  {
+    "filename": "029-pendrive.html",
+    "attr": {
+      "data-background": "resources/images/029-pendrive.jpg"
+    }
+  },
+  {
+    "filename": "030-oled.html",
+    "attr": {
+      "data-background-video": "resources/images/030-oled.mp4",
+      "data-background-video-loop": "loop"
+    }
+  },
+  {
+    "filename": "031-lift.html",
+    "attr": {
+      "data-background-video": "resources/images/031-lift.mp4",
+      "data-background-video-loop": "loop"
+    }
+  },
+  {
+    "filename": "032-voice.html",
+    "attr": {
+      "data-background-video": "resources/images/032-voice.mp4",
+      "data-background-video-loop": "loop"
+    }
+  },
+  {
+    "filename": "033-thermostat.html",
+    "attr": {
+      "data-background": "resources/images/033-thermostat.png"
+    }
+  },
+  {
+    "filename": "040-openbetter.html",
+    "attr": {
+      "data-background": "resources/images/040-openbetter.JPG"
+    }
+  },
+  "041-future.html",
+  "042-future.html",
+  {
+    "filename": "050-community.html"
+  },
+  "060-demo.html",
+  {
     "filename": "102_questions.html",
     "attr": {
-      "data-background": "resources/images/102_questions.gif"
+    }
+  },
+  {
+    "filename": "103_happy.html",
+    "attr": {
+      "data-background": "resources/images/happy.gif"
     }
   },
   "103_thank_you.html"
