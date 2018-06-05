@@ -75,6 +75,37 @@
   },
   "013_whole.html",
   "014_cloud.html",
+  "015_hot.html",
+  "016_bulb.html",
+  {
+    "filename": "017_start-zamel.html",
+    "attr": {
+      "data-transition": "fade-out"
+    }
+  },
+  {
+    "filename": "018_start-zamel.html",
+    "attr": {
+      "data-background": "resources/images/018-leroy-real.jpg",
+      "data-transition": "fade-out"
+    }
+  },
+  "019-zamel.html",
+  "020-nice.html",
+  {
+    "filename": "021-ce.html",
+    "attr": {
+      "data-background": "resources/images/021-ce.png"
+    }
+  },
+  "022-sonoff.html",
+  {
+    "filename": "023-diy.html",
+    "attr": {
+      "data-transition": "zoom",
+      "data-background": "#00d151"
+    }
+  },
   {
     "filename": "102_questions.html",
     "attr": {
