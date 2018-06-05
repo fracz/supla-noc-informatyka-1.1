@@ -56,6 +56,26 @@
     }
   },
   {
+    "filename": "010_how.html",
+    "attr": {
+      "data-background": "#fafbfc"
+    }
+  },
+  {
+    "filename": "011_how.html",
+    "attr": {
+      "data-background": "#fafbfc"
+    }
+  },
+  {
+    "filename": "012_api.html",
+    "attr": {
+      "data-background": "#fafbfc"
+    }
+  },
+  "013_whole.html",
+  "014_cloud.html",
+  {
     "filename": "102_questions.html",
     "attr": {
       "data-background": "resources/images/102_questions.gif"
