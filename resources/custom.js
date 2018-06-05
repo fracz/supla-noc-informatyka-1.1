@@ -6,7 +6,8 @@ Reveal.addEventListener('fragmentshown', function (e) {
     var fetchTemp = function () {
       var s = document.createElement("script");
       s.type = "text/javascript";
-      s.src = "https://supla.fracz.com/api/scenes/public/41a21a79-b15f-466f-b9d8-5a8cd080e12e";
+      var rand = Math.random();
+      s.src = "https://supla.fracz.com/api/scenes/public/e7ad5bd9-cdd2-4263-89c3-16c19a3a3a1f?" + rand;
       $("head").append(s);
       setTimeout(function () {
         $("head").remove(s);
