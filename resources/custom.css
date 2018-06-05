@@ -36,3 +36,15 @@ a {
 .supla-color {
   color: #00d151;
 }
+
+img.supla-bg {
+  padding: 10px;
+  background: #00d151 !important;
+}
+
+.fragment.current-visible.visible:not(.current-fragment) {
+  display: none;
+  height:0px;
+  line-height: 0px;
+  font-size: 0px;
+}
