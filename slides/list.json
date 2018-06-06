@@ -138,6 +138,12 @@
     }
   },
   {
+    "filename": "028-wifister.html",
+    "attr": {
+      "data-background": "resources/images/028-wifister.jpg"
+    }
+  },
+  {
     "filename": "029-pendrive.html",
     "attr": {
       "data-background": "resources/images/029-pendrive.jpg"
