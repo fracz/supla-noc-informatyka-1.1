@@ -171,6 +171,12 @@
     }
   },
   {
+    "filename": "034-ac.html",
+    "attr": {
+      "data-background": "resources/images/034-ac.jpg"
+    }
+  },
+  {
     "filename": "040-openbetter.html",
     "attr": {
       "data-background": "resources/images/040-openbetter.JPG"
