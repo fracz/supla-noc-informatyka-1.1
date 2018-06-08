@@ -44,6 +44,12 @@
     }
   },
   {
+    "filename": "007_historia_map.html",
+    "attr": {
+      "data-background": "resources/images/007_map.png"
+    }
+  },
+  {
     "filename": "008_how.html",
     "attr": {
       "data-background": "#fafbfc"
