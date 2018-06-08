@@ -131,6 +131,13 @@
     }
   },
   {
+    "filename": "026-domofon.html",
+    "attr": {
+      "data-background-video": "resources/images/026-domofon.mp4",
+      "data-background-video-loop": "loop"
+    }
+  },
+  {
     "filename": "027-temp.html",
     "attr": {
       "data-background": "resources/images/027-temp.JPG"
@@ -140,6 +147,13 @@
     "filename": "028-button.html",
     "attr": {
       "data-background-video": "resources/images/028-button.mp4",
+      "data-background-video-loop": "loop"
+    }
+  },
+  {
+    "filename": "028-socket.html",
+    "attr": {
+      "data-background-video": "resources/images/028-socket.mp4",
       "data-background-video-loop": "loop"
     }
   },
@@ -201,14 +215,15 @@
   },
   "060-demo.html",
   {
-    "filename": "102_questions.html",
-    "attr": {
-    }
-  },
-  {
     "filename": "103_happy.html",
     "attr": {
       "data-background": "resources/images/happy.gif"
+    }
+  },
+  {
+    "filename": "102_questions.html",
+    "attr": {
+      "data-transition": "zoom"
     }
   },
   "103_thank_you.html"
