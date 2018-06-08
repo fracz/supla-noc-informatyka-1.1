@@ -1,5 +1,7 @@
 var currentTempInterval = null;
 
+var TEMP_SCENE_URL = 'https://supla.fracz.com/api/scenes/public/e7ad5bd9-cdd2-4263-89c3-16c19a3a3a1f';
+
 Reveal.addEventListener('fragmentshown', function (e) {
   var isTemp = $(e.fragment).attr('id') == 'currentTemp';
   if (isTemp) {
@@ -7,7 +9,7 @@ Reveal.addEventListener('fragmentshown', function (e) {
       var s = document.createElement("script");
       s.type = "text/javascript";
       var rand = Math.random();
-      s.src = "https://supla.fracz.com/api/scenes/public/e7ad5bd9-cdd2-4263-89c3-16c19a3a3a1f?" + rand;
+      s.src = TEMP_SCENE_URL + "?" + rand;
       $("head").append(s);
       setTimeout(function () {
         $("head").remove(s);
