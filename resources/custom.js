@@ -1,6 +1,6 @@
 var currentTempInterval = null;
 
-var TEMP_SCENE_URL = 'https://supla.fracz.com/api/scenes/public/e7ad5bd9-cdd2-4263-89c3-16c19a3a3a1f';
+var TEMP_SCENE_URL = 'https://supla.fracz.com/api/scenes/public/41a21a79-b15f-466f-b9d8-5a8cd080e12e';
 
 Reveal.addEventListener('fragmentshown', function (e) {
   var isTemp = $(e.fragment).attr('id') == 'currentTemp';
